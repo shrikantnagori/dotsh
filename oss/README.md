@@ -1,4 +1,6 @@
-# OpenSource Libraries for software development
+# OpenSource Libraries for Networking
+
+Here is the list of some libraries that I use more often for code development in networking domain and some of them are in general useful for writing any other domain as well (e.g. folly and thrift).
 
 
 ## ZeroMQ
